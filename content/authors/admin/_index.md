@@ -1,6 +1,6 @@
 ---
 role: Student of Software Engineering
-avatar_filename: 981641653068_.pic.jpg
+avatar_filename: avatar.jpg
 bio: My study focuses on software design and development.
 interests:
   - Software Development
@@ -10,12 +10,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: michael531@bupt.edu.cn
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/michael_hy0531/
   - icon: github
     icon_pack: fab
     link: https://github.com/huyang531
+  - display:
+      header: false
+    icon_pack: fab
+    icon: wechat
+    link: huyang2001001
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/michael_hy0531/
 organizations:
   - name: Beijing University of Post and Telecommunications
     url: https://www.bupt.edu.cn/

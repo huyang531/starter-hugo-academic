@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yang Hu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Beijing University of Post and Telecommunications
+  url: https://www.bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My study focuses on software design and development.
 
 # Interests to show in About widget
 interests:
+- Software Development
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robotics
 
 # Education to show in About widget
 education:

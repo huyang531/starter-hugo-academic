@@ -33,10 +33,3 @@ zh:
       url: '#contact'
       weight: 60
   
-  address:
-    street: 中国
-    city: 北京
-    region: 西土城路10号北京邮电大学
-    # postcode: '94305'
-    country: China
-    country_code: CN

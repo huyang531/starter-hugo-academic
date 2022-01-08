@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: 个人履历
 subtitle:
 
 # Date format for experience
@@ -22,44 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher of Deep Reinforcement Learning
-    company: University of Cambridge
+  - title: 深度强化学习领域的研究
+    company: 剑桥大学
     company_url: 'https://www.cam.ac.uk'
     company_logo: org-cam
-    location: Online
+    location: 线上
     date_start: '2021-07-01'
     date_end: '2021-08-30'
     description: |2-
-        Responsibilities include:
-        * Analysing
-        * Programming
-        * Modelling
+        完成的工作包括:
 
-  - title: Student of Reshaping Global Trade
-    company: University of Hong Kong
+        * 调研
+        * 编程
+        * 建模
+        
+  - title: 重塑国际贸易主题研究
+    company: 香港大学
     company_url: 'https://www.hku.hk'
     company_logo: org-hku
-    location: Online
+    location: 线上
     date_start: '2021-03-01'
     date_end: '2021-03-30'
-    description: Wrote a paper on the founding and function of the World Trade Organization and the Sino-US trade war.
-        
-  - title: Participant of United Nations' Leadership Program
-    company: United Nations Institute for Training and Research (UNITAR)
+    description: 撰写了有关世界贸易组织和中美贸易战诱因的论文。
+
+  - title: 国际组织胜任力实战培优训练营
+    company: 联合国训练与研究机构 (UNITAR)
     company_url: 'https://www.unitar.org'
     company_logo: org-unitar
-    location: Online
+    location: 线上
     date_start: '2021-08-01'
     date_end: '2021-08-15'
-    description: |2- 
-      Had lectures and seminars on global issues and on global leadership. Skills on following fields are involved:
-      * Writing
-      * Public Speaking
-      * Cross-cultural Communication
-      * Interviewing
-      * Researching
-      * Negotiation
-      * Leadership
+    description: |2-
+    聆听了有关国际问题及全球领导力的讲座并举行了研讨会。涉及到的技能包括：
+    * 英文写作
+    * 公共演讲
+    * 跨文化交际
+    * 面试
+    * 调查
+    * 谈判
+    * 领导力
+    
 
 design:
   columns: '2'

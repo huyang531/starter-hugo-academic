@@ -21,7 +21,7 @@ zh:
       url: '#about'
       weight: 10
 
-    - name: 履历
+    - name: 个人履历
       url: '#experience'
       weight: 30
 

@@ -37,4 +37,5 @@ email: ""
 I am a Computer Science student who is interested in economics and global politics. I am multi-lingual and I have considerable experience in cross-cultural communication, programming, and data management. I am also equipped with leadership and public speaking skills.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_resume.pdf" "newtab" >}}English resumé{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ch_resume.pdf" "newtab" >}}Chinese resumé{{< /staticref >}}.

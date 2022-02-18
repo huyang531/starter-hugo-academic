@@ -37,4 +37,5 @@ email: ""
 本人爱好广泛，无一精通，热爱计算机的同时也热爱旅行和生活，对人文社科领域也有一定的了解。擅长的领域包括程序设计、数据处理、跨文化交际；并且具有双语沟通能力和一定的领导组织能力。
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/ch_resume.pdf" "newtab" >}}中文简历{{< /staticref >}}。
+
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/my_resume.pdf" "newtab" >}}英文简历{{< /staticref >}}。
